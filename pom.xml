@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>epicode</groupId>
-	<artifactId>epicpizza</artifactId>
+	<artifactId>u5-s1-g4-dattilo-domenico</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>epicpizza</name>
+	<name>u5-s1-g4-dattilo-domenico</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
 		<java.version>17</java.version>
